@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
-		id        = "com.frankrnichols.lesson5"
-		versionCode="5"
-		version   = "0.5">
+		id        = "com.frankrnichols.lesson6"
+		versionCode="6"
+		version   = "0.6">
 		<name>Lesson5</name>
 		<description>
-5th selfteach lesson		</description>
+6th selfteach lesson		</description>
 		<author href="www.frankrnichols.com" email="frank.r.nichols1@gmail.com">
 Frank R. Nichols, Sr.
 		</author>
